@@ -1,4 +1,4 @@
-# Jenkin for mono + net462
+# Jenkins for mono + net462
 
 This is a docker image of Jenkins for .NET projects.
 We need windows servers for .NET CI, this presented Linux contener with mono products.
